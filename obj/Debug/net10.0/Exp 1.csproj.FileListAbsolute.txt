@@ -1,0 +1,15 @@
+C:\Users\sraks\OneDrive\Desktop\Exp 1\bin\Debug\net10.0\Exp 1.exe
+C:\Users\sraks\OneDrive\Desktop\Exp 1\bin\Debug\net10.0\Exp 1.deps.json
+C:\Users\sraks\OneDrive\Desktop\Exp 1\bin\Debug\net10.0\Exp 1.runtimeconfig.json
+C:\Users\sraks\OneDrive\Desktop\Exp 1\bin\Debug\net10.0\Exp 1.dll
+C:\Users\sraks\OneDrive\Desktop\Exp 1\bin\Debug\net10.0\Exp 1.pdb
+C:\Users\sraks\OneDrive\Desktop\Exp 1\obj\Debug\net10.0\Exp 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sraks\OneDrive\Desktop\Exp 1\obj\Debug\net10.0\Exp 1.AssemblyInfoInputs.cache
+C:\Users\sraks\OneDrive\Desktop\Exp 1\obj\Debug\net10.0\Exp 1.AssemblyInfo.cs
+C:\Users\sraks\OneDrive\Desktop\Exp 1\obj\Debug\net10.0\Exp 1.csproj.CoreCompileInputs.cache
+C:\Users\sraks\OneDrive\Desktop\Exp 1\obj\Debug\net10.0\Exp 1.dll
+C:\Users\sraks\OneDrive\Desktop\Exp 1\obj\Debug\net10.0\refint\Exp 1.dll
+C:\Users\sraks\OneDrive\Desktop\Exp 1\obj\Debug\net10.0\Exp 1.pdb
+C:\Users\sraks\OneDrive\Desktop\Exp 1\obj\Debug\net10.0\Exp 1.genruntimeconfig.cache
+C:\Users\sraks\OneDrive\Desktop\Exp 1\obj\Debug\net10.0\ref\Exp 1.dll
+C:\Users\sraks\OneDrive\Desktop\Exp 1\obj\Debug\net10.0\Exp 1.sourcelink.json
